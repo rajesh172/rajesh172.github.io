@@ -5,3 +5,5 @@
 <img src = "1.jpg">
 1. Rajesh
 2. Pearl
+* Technical
+* Secretary
